@@ -160,11 +160,11 @@ html {
   background-color: red;
 }
 
-#header .mobile-menu-btn:hover{
+#header .mobile-menu-btn:hover {
   background-color: #ccc;
 }
 
-#header .mobile-menu-btn:hover .menu-icon{
+#header .mobile-menu-btn:hover .menu-icon {
   color: #000;
 }
 #header .menu-icon,
@@ -475,5 +475,3 @@ html {
     transform: translateY(0);
   }
 }
-
-
