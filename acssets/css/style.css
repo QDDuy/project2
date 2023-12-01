@@ -175,7 +175,7 @@ html {
 #slider {
   margin-top: 46.5px;
   padding-top: 50%;
-  background: url("acssets/img/slider/slider1.jpg") top center / cover
+  background: url("/project2/blob/main/acssets/img/slider/slider1.jpg") top center / cover
     no-repeat;
   position: relative;
 }
