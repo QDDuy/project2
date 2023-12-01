@@ -154,6 +154,9 @@ html {
   line-height: 46.5px;
   padding: 0 21px;
   cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 #header .search-btn:hover {
