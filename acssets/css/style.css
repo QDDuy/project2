@@ -116,7 +116,7 @@ html {
   text-decoration: none;
   font-size: 15px;
   padding: 0 24px;
-  display: inline-block;
+  display: block;
 }
 
 #nav li:hover .subnav {
@@ -147,7 +147,7 @@ html {
 #nav .nav-arrow-down {
   font-size: 11px;
 }
-#header .mobile-menu-btn{
+#header .mobile-menu-btn {
   position: absolute;
   top: 0;
   right: 0;
@@ -159,7 +159,6 @@ html {
   line-height: 46.5px;
   padding: 0 21px;
   cursor: pointer;
- 
 }
 
 #header .search-btn:hover {
