@@ -147,16 +147,19 @@ html {
 #nav .nav-arrow-down {
   font-size: 11px;
 }
-
+#header .mobile-menu-btn{
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: none;
+}
 #header .mobile-menu-btn,
 #header .search-btn {
   float: right;
   line-height: 46.5px;
   padding: 0 21px;
   cursor: pointer;
-  position: absolute;
-  top: 0;
-  right: 0;
+ 
 }
 
 #header .search-btn:hover {
